@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test for revisedBookData output price to be revised based on year 1`] = `
+Array [
+  Object {
+    "id": 1,
+    "price": 5,
+    "year": "2000",
+  },
+  Object {
+    "id": 2,
+    "price": 8,
+    "year": "2010",
+  },
+]
+`;
